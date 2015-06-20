@@ -1,4 +1,4 @@
-<img src="image/Dico/logo-snap!.png" alt="Blablabla" style="height: 50px;"/>
+<img src="image/GitHub-logo.png" alt="Blablabla" style="height: 50px;"/>
 # Documentation simple et accessible à tous (en *très lourde* construction)
 # - pour l'éducation -
 -\*- _et en français !_ -\*-
