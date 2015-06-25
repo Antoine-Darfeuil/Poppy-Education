@@ -1,2 +1,2 @@
-# Poppy-Snap-Education
+# Poppy-Education
 Documentation pour l'éducation sur Poppy via Snap!
