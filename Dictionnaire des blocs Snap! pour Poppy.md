@@ -1,4 +1,3 @@
-<img src="image/GitHub-logo.png" alt="GitHub" style="height: 50px;"/>
 # Documentation simple et accessible à tous (en *très lourde* construction)
 # - pour l'éducation -
 -\*- _et en français !_ -\*-
