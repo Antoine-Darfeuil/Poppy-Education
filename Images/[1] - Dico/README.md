@@ -1,2 +1,2 @@
-# Images de tous les blocs Snap! _robot Poppy_
-## _version : ..._
+# Images de tous les blocs Snap! pour _Poppy_
+_version : ..._
