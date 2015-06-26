@@ -8,7 +8,7 @@ Le but de cette documentation est d'expliquer un certain nombre de notion autour
 Elle s'adresse _en particulier_ aux **personnes novice dans l'utilisation de Snap!** et **non familère avec la robotique ou la programmation**.<br />
 
 
-* Lexique du jargon utilisé
+* Lexique du jargon utilisé <p style="color:green"> Seul notebook lisible directement dans GitHub </p>
 * Fiche moteurs Poppy
 * *Dictionnaire des blocs Snap! (?)* --> _ndl : très très long à réaliser_
 * Dictionnaire des blocs Snap! pour Poppy
