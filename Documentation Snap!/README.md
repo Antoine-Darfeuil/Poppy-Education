@@ -2,13 +2,14 @@
 # - pour l'éducation -
 -\*- _et en français !_ -\*-
 
-<h1> allo </h1>
+
 
 Le but de cette documentation est d'expliquer un certain nombre de notion autour de Poppy, pour __l'éducation__.<br />
 Elle s'adresse _en particulier_ aux **personnes novice dans l'utilisation de Snap!** et **non familère avec la robotique ou la programmation**.<br />
 
 
-* Lexique du jargon utilisé <p style="color:green"> Seul notebook lisible directement dans GitHub </p>
+* Lexique du jargon utilisé 
+<p style="color:red"> Seul notebook lisible directement dans GitHub </p>
 * Fiche moteurs Poppy
 * *Dictionnaire des blocs Snap! (?)* --> _ndl : très très long à réaliser_
 * Dictionnaire des blocs Snap! pour Poppy
