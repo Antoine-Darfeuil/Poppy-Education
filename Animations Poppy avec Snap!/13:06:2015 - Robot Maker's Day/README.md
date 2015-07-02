@@ -38,4 +38,4 @@
 ---
 ## Ressources Atelier
 
-* Fiche nom des moteurs et fiche Snap! --> <a href"https://github.com/Antoine-Darfeuil/Poppy-Education/tree/master/Images"> _ici_ </a>
+Fiche nom des moteurs et fiche Snap! --> <a href"https://github.com/Antoine-Darfeuil/Poppy-Education/tree/master/Images"> ici </a>
