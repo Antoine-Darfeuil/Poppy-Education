@@ -33,4 +33,4 @@
 ---
 ## Ressources Atelier
 
-Fiche nom des moteurs et fiche Snap! --> Poppy-Education/Images
+* Fiche nom des moteurs et fiche Snap! --> Poppy-Education/Images
