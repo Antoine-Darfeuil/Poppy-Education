@@ -1,6 +1,6 @@
 <a href="http://robotmakersday.fr/"> <img src="images/logo_RMD.jpg" style="height: 100px;"> </a>
 
-<h1> Atelier <i>Poppy</i> pour la Robot Maker's Day - 13 juin 2015 </h1>
+# Atelier _Poppy_ pour la Robot Maker's Day - 13 juin 2015 
 
 
 
