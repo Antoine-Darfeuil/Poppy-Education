@@ -4,8 +4,8 @@
 
 
 
-Le but de cette documentation est d'expliquer un certain nombre de notion autour de Poppy, pour __l'éducation__.<br />
-Elle s'adresse _en particulier_ aux **personnes novice dans l'utilisation de Snap!** et **non familère avec la robotique ou la programmation**.<br />
+Le but de cette documentation est d'expliquer un certain nombre de notions autour de Poppy, pour __l'éducation__.<br />
+Elle s'adresse _en particulier_ aux **personnes novices dans l'utilisation de Snap!** et **non familères avec la robotique ou la programmation**.<br />
 
 
 * <a href="Lexique/ipybn"> Lexique du jargon utilisé </a>
