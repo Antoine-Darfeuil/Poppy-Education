@@ -21,9 +21,9 @@
 <table>
     <tr>
         
-        <td> <img src="images/Poppy_TN_salut.jpg" style="height: 200px;"> </td>
+        <td> <img src="images/Poppy_TN_salut.JPG" style="height: 200px;"> </td>
         <td> <img src="images/Poppy_TN_calin.JPG" style="height: 200px;"> </td>
-        <td> <img src="images/Poppy_TN_ballon.jpg" style="height: 200px;"> </td> 
+        <td> <img src="images/Poppy_TN_ballon.JPG" style="height: 200px;"> </td> 
         
     </tr>
 </table>
