@@ -18,8 +18,15 @@
 * Realiser _**plusieurs mouvements**_ avec _Poppy Torso_ via _**Snap!**_
 * Découvrir l'enregistrement de _**mouvements par démonstration**_ avec les bras de _Poppy Torso_
 
-----|----|----
-<img src="images/Poppy_TN_salut.jpg" style="height: 200px;">|<img src="images/Poppy_TN_calin.jpg" style="height: 200px;">|<img src="images/Poppy_TN_ballon.jpg" style="height: 200px;">
+<table>
+    <tr>
+        
+        <td> <img src="images/Poppy_TN_salut.jpg" style="height: 200px;"> </td>
+        <td> <img src="images/Poppy_TN_calin.jpg" style="height: 200px;"> </td>
+        <td> <img src="images/Poppy_TN_ballon.jpg" style="height: 200px;"> </td> 
+        
+    </tr>
+</table>
 
 
 
