@@ -7,7 +7,7 @@
  
  ---
 
-<a href="http://www.sudouest.fr/2015/06/15/talence-retour-en-images-sur-le-robot-maker-s-day-1951914-4725.php" title="Voir l'article du SudOuest> <img src="images/RMD_SudOuest.jpg" alt="Article Sud Ouest - Robot Maker's Day" style="height : 350px;"> </a>
+<a href="http://www.sudouest.fr/2015/06/15/talence-retour-en-images-sur-le-robot-maker-s-day-1951914-4725.php" title="Voir l'article du SudOuest"> <img src="images/RMD_SudOuest.jpg" alt="Article Sud Ouest - Robot Maker's Day" style="height : 350px;"> </a>
 
 
 
