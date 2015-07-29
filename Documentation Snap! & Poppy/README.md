@@ -16,3 +16,4 @@ Elle s'adresse _en particulier_ aux **personnes novices dans l'utilisation de Sn
 
 
 * Les notions avancées de Snap! _(ou de comment créer ses propres blocs et autres histoires)_ --> _ndl : très long à réaliser_
+
