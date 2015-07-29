@@ -1,12 +1,7 @@
-# Documentation simple et accessible à tous
-# (en *très lourde* construction)
-
-# - pour l'éducation - / - l'art - / - la médiation scientifique - 
--\*- _et en français !_ -\*-
+# Documentation simple et accessible à tous (en *très lourde* construction)
 
 
-
-Le but de cette documentation est d'expliquer un certain nombre de notions autour de Poppy, pour __l'éducation__.<br />
+Le but de cette documentation _(en français)_ est d'expliquer un certain nombre de notions autour de Poppy, pour __l'éducation__.<br />
 Elle s'adresse _en particulier_ aux **personnes novices dans l'utilisation de Snap!** et **non familères avec la robotique ou la programmation**.<br />
 
 
