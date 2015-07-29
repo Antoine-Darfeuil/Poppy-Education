@@ -12,8 +12,3 @@ Elle s'adresse _en particulier_ aux **personnes novices dans l'utilisation de Sn
 * <a href="Decouvrir Snap! pour Poppy.ipynb"> Décrouvir Snap! pour _Poppy_ </a>
 * <a href="Dictionnaire des blocs Snap! pour Poppy.ipynb"> Dictionnaire des blocs Snap! pour _Poppy_ </a>
 * <a href="Ressources Poppy.ipynb"> Ressources _Poppy_ </a>
-* *Dictionnaire des blocs Snap! (?)* --> _ndl : très très long à réaliser_
-
-
-* Les notions avancées de Snap! _(ou de comment créer ses propres blocs et autres histoires)_ --> _ndl : très long à réaliser_
-
